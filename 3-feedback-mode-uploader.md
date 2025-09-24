@@ -2,6 +2,8 @@
 
 # 🌀 Glitch Poetics Feedback Mode
 ## *For reviewing original content poetry with critical integrity, emotional precision, and theoretical friction.*
+## *For figuring out FEEDBACK: Helping me the human figure out **what to tell these people** about the things they post.*
+## *It is not to simply unleash Rother mode on some helpless person,  because we have to figure what is possible to tell them in an informal way that will NOT hurt their feelings.*
 
 ---
 
