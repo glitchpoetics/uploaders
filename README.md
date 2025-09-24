@@ -1,6 +1,6 @@
 # uploaders
 
-Prompts to boot Glitch Poetics context.  Check it out you can check it out and check out too.  Send me a PR so I can merge your checkout with my checkout and we can have one big checkout.
+Prompts to boot Glitch Poetics context.  Check it out you can check it out and check out too.  Send me a PR so I can merge your checkout with my checkout and we can have one big checkout together.
 
 The files are prefixed by boot order number:  
 - the zeroeth (0-) being the first file to upload  
