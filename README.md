@@ -1,4 +1,5 @@
 # Smirk daily.
+![Smirk daily](avatar/smirk-daily2.jpg "Smirk dialy")
 
 Prompts to boot Glitch Poetics context.  Send me a PR.
 
