@@ -1,4 +1,4 @@
-# uploaders
+# Smirk daily.
 
 Prompts to boot Glitch Poetics context.  Send me a PR.
 
